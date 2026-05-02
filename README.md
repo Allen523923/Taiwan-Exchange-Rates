@@ -11,7 +11,7 @@ TW-臺灣銀行匯率行情
 # 如何執行：
 確保已安裝必要套件： pip install pandas matplotlib numpy sqlite3 time datetime
 執行主程式： python 
-- 抓取台灣銀行每日匯率行情.py 
+- 台灣銀行每日匯率行情爬蟲.py 
 - 指定幣別折線圖.py 
 - 鄰近幣別折線圖.py
 
